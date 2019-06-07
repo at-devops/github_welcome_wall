@@ -92,7 +92,7 @@ You can do it! Keep at it :) ~ Sara
 <br>
 <br>
 <br>
-<br>
+Git this great!
 <br>
 <br>
 <br>
