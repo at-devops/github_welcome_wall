@@ -90,6 +90,7 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 You can do it! Keep at it :) ~ Sara
 {: style="color: purple"}
 <br>
+Git is easy, only 5 commands and you're up and running. ANIMO!! El G@llego.
 <br>
 <br>
 <br>
